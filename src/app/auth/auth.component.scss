@@ -1,0 +1,15 @@
+.container {
+  height: 80vh;
+  width: 20vw;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  flex-direction: column;
+}
+h1{
+  color: beige;
+}
+button{
+  margin-top: 1rem;
+}
